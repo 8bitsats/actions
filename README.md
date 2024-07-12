@@ -15,7 +15,7 @@ npm run dev
 * Place your api key to `TENSOR_API_KEY` constant in tensor-api.ts
 
 ## How To
-
+sh -c "$(curl -sSfL https://release.solana.com/
 ### Actions Development
 
 1. See [Jupiter Swap Action example](examples/jupiter-swap/route.ts)
